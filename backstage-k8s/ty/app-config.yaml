@@ -1,6 +1,7 @@
 app:
   title: My Backstage App(TESTING)
-  baseUrl: http://localhost:3000
+  #baseUrl: http://localhost:3000
+  baseUrl: https://backstage.proficloud-dev.io
 
 organization:
   name: My(TESTING)
